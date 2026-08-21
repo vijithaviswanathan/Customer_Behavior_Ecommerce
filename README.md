@@ -33,31 +33,29 @@ https://www.kaggle.com/datasets/steve1215rogg/e-commerce-dataset
 
 # 📊 Project Workflow
 
-Data Collection
-       ↓
-Data Understanding
-       ↓
-Data Cleaning & Preparation
-       ↓
-Exploratory Data Analysis
-       ↓
-Customer Behaviour Analysis
-       ↓
-Customer Segmentation
-       ↓
-Discount Analysis
-       ↓
-Repeat Purchase Analysis
-       ↓
-Seasonality Analysis
-       ↓
-Marketing Campaign Analysis
-       ↓
-Churn & Revenue Attrition Analysis
-       ↓
-Business Insights
-       ↓
-Strategic Recommendations
+     Data Collection and Understanding 
+                    ↓
+     Data cleaning & Preparation
+                    ↓
+     Exploratory Data Analysis
+                    ↓
+     Customer Behaviour Analysis
+                    ↓
+     Customer Segmentation
+                    ↓
+     Discount Analysis
+                    ↓
+     Repeat Purchase Analysis
+                    ↓
+     Seasonality Analysis
+                    ↓
+     Marketing Campaign Analysis
+                    ↓
+     Churn & Revenue Attrition Analysis
+                    ↓
+     Business Insights
+                    ↓
+     Strategic Recommendations
 
 ---
 
