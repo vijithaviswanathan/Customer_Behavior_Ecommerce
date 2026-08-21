@@ -20,13 +20,13 @@ An end to end **E-Commerce Analytics project** focused on understanding customer
 
 ## 📥 Dataset
 
-** Superstore Sales Dataset ** 
+**Superstore Sales Dataset** 
 https://www.kaggle.com/datasets/rohitsahoo/sales-forecasting
 
-** Marketing Campaign Performance Dataset **
+**Marketing Campaign Performance Dataset**
 https://www.kaggle.com/datasets/manishabhatt22/marketing-campaign-performance-dataset
 
-** E-Commerce Dataset **
+**E-Commerce Dataset**
 https://www.kaggle.com/datasets/steve1215rogg/e-commerce-dataset
 
 ---
