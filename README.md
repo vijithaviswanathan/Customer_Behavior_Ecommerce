@@ -1,33 +1,33 @@
 # 🛒 E-Commerce Customer Behaviour & Business Analytics
 
-An end-to-end **E-Commerce Analytics project** focused on understanding customer behaviour, repeat purchases, discount strategies, seasonality, marketing campaign performance, customer segmentation, and churn.
+An end to end **E-Commerce Analytics project** focused on understanding customer behaviour, repeat purchases, discount strategies, seasonality, marketing campaign performance, customer segmentation, and churn.
 
 ---
 
 ## 🛠️ Technologies & Tools Used
 
-Python  
-Pandas  
-Data Analysis & Visualization  
-Exploratory Data Analysis  
-Customer Behaviour Analysis  
-Business Analytics  
-Customer Segmentation  
-Churn Analysis  
-Seasonality Analysis  
+- Python  
+- Pandas  
+- Data Analysis & Visualization  
+- Exploratory Data Analysis  
+- Customer Behaviour Analysis  
+- Business Analytics  
+- Customer Segmentation  
+- Churn Analysis  
+- Seasonality Analysis  
 
 ---
 
 ## 📥 Dataset
 
-** Churn Dataset ** 
-https://www.kaggle.com/datasets/samuelsemaya/e-commerce-customer-churn
+** Superstore Sales Dataset ** 
+https://www.kaggle.com/datasets/rohitsahoo/sales-forecasting
 
-** Customer Behaviour Dataset **
-https://www.kaggle.com/datasets/dhairyajeetsingh/ecommerce-customer-behavior-dataset
+** Marketing Campaign Performance Dataset **
+https://www.kaggle.com/datasets/manishabhatt22/marketing-campaign-performance-dataset
 
-** Engagement Dataset **
-https://www.kaggle.com/datasets/noir1112/e-commerce-customer-engagement
+** E-Commerce Dataset **
+https://www.kaggle.com/datasets/steve1215rogg/e-commerce-dataset
 
 ---
 
