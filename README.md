@@ -52,10 +52,6 @@ https://www.kaggle.com/datasets/steve1215rogg/e-commerce-dataset
      Marketing Campaign Analysis
                     ↓
      Churn & Revenue Attrition Analysis
-                    ↓
-     Business Insights
-                    ↓
-     Strategic Recommendations
 
 ---
 
